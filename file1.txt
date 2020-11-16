@@ -1,1 +1,1 @@
-frist line in file1 by Dev A
+First line in file1 by Dev A
